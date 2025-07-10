@@ -1,0 +1,29 @@
+.dataloader-card {
+  width: 300px;
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: center;
+  background: #f9fafb;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.loader-icon,
+.success-icon {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  border: none;
+  background-color: #e5e7eb;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.btn.black {
+  background-color: #111827;
+  color: white;
+}

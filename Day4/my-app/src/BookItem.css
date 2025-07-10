@@ -1,0 +1,21 @@
+.book-card {
+  border: 1px solid #e5e7eb;
+  padding: 1rem;
+  border-radius: 8px;
+  background: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  width: 200px;
+  text-align: left;
+}
+
+.book-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.book-author, .book-year {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0;
+}

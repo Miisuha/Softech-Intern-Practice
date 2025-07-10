@@ -1,0 +1,11 @@
+.booklist-container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.book-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}

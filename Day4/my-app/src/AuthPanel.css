@@ -1,0 +1,30 @@
+.auth-panel {
+  width: 300px;
+  margin: 2rem auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #f9fafb;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  font-size: 0.95rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #e5e7eb;
+  margin-top: 1rem;
+}
+
+.btn.black {
+  background-color: #111827;
+  color: white;
+}
+
+.success-msg {
+  color: green;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
